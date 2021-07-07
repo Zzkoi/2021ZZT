@@ -1,0 +1,187 @@
+*{margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;}
+
+.bg header {width: 100%;
+  background-color: #B1CECE;
+  height: 140px;
+  background-color: rgba( 177, 206, 206, 0.9 );
+  text-align: center;
+  color: #FFFFFF;
+  font-family: 'Noto Sans KR', sans-serif;
+font-weight: 500;
+
+letter-spacing: -1px;
+  position: fixed;
+  padding-top: 10px;
+
+}
+
+header > a{color: #555555;}
+
+
+.bg nav {}
+nav > ul{display:flex;
+          justify-content: center;
+          align-items: center;}
+nav > ul > li{float: left;
+              margin: 20px 50px;
+              color: #FFFFFF;
+              font-family: 'Noto Sans KR', sans-serif;
+ font-weight: 500;
+ letter-spacing: -1px;}
+
+ nav > ul > li > a {color: #ffffff;}
+
+ nav > ul > li > a:hover{
+  color: #688D8D;
+  font-weight: 500;
+}
+
+
+
+.bg {
+      height: 150px;
+      background-size: cover;
+      background-position: center;}
+
+.sub01 {background-image: url('../img/yhmain.png');
+        background-size: cover;
+        background-position: center;
+        height:900px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        }
+
+.sub02 {background-image: url('../img/lamain.png');
+        background-size: cover;
+        background-position: center;
+        height:900px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        }
+
+.sub03 {background-image: url('../img/bamain.png');
+        background-size: cover;
+        background-position: center;
+        height:900px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        }
+
+
+
+footer {position: relative;
+        width: 100%;
+        background-color: #8AA7A7;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+        .footerwrap {
+          width: 1024px;
+          height: 70px;
+          display: flex;
+          justify-content: space-between;}
+
+        .f_left {
+          display: inline-block;
+
+          width: 200px;
+          height: 70px;
+          align-items: center;}
+
+          .f_right {
+            display: flex;
+            width: 450px;
+            height: 70px;
+            align-items: center;
+
+            color: #ffffff;
+        justify-content: center;
+        font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 300;
+  letter-spacing: -1px;}
+
+
+  /*----sub_01반영되는css----*/
+
+
+.yh {height: 4650px;}
+.la {height: 4300px;}
+.ba {height: 5250px;}
+
+
+
+
+.s1_txt01 {text-align: center;
+        margin-top: 100px;
+        font-family: 'Noto Sans KR', sans-serif;
+        font-weight: 400;
+        font-size: 27px;
+        letter-spacing: -1px;}
+
+.s1_txt02 {text-align: center;
+          margin-top: 80px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 400;
+          font-size: 22px;
+          letter-spacing: -1px;
+        line-height: 40px;}
+
+.s1_txt03 {text-align: center;
+          margin-top: 80px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 300;
+          font-size: 16px;
+          letter-spacing: -1px;
+          line-height: 30px;}
+
+.s1_txt04 {text-align: center;
+          margin-top: 50px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 400;
+          font-size: 22px;
+          letter-spacing: -1px;
+          line-height: 30px;}
+
+.s1_txt05 {text-align: center;
+          margin-top: 50px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 300;
+          font-size: 16px;
+          letter-spacing: -1px;
+          line-height: 30px;}
+
+.s1_txt06 {text-align: center;
+          margin-top: 50px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 300;
+          font-size: 16px;
+          letter-spacing: -1px;
+          line-height: 30px;}
+
+.s1_txt07 {text-align: center;
+          margin-top: 50px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 300;
+          font-size: 16px;
+          letter-spacing: -1px;
+          line-height: 30px;}
+
+.s1_txt08 {text-align: center;
+          margin-top: 50px;
+          margin-bottom: 120px;
+          font-family: 'Noto Sans KR', sans-serif;
+          font-weight: 300;
+          font-size: 12px;
+          letter-spacing: -1px;}
+
+
+
+  
